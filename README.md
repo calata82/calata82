@@ -1,5 +1,6 @@
-[https://github.com/calata82/calata82/assets/142788065/dc61f1e1-a895-4192-817e-e89ac936bb1a]
 
+
+![1687558761081](https://github.com/calata82/calata82/assets/142788065/d00c65ec-e4b6-40b2-8d58-f6fe9766cad5)
 
 - 👋 Hi, I’m @calata82
 2

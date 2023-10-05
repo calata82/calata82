@@ -1,4 +1,4 @@
-[Imagen decorativa de tu perfil](https://media.licdn.com/dms/image/D4D16AQFuvdiLmWD-lQ/profile-displaybackgroundimage-shrink_350_1400/0/1687558761081?e=1701907200&v=beta&t=TcR49Ac6JDCOAIFS5TG5XIoXCqPTr-Zfj44TAf11FGM)
+[Imagen decorativa de tu perfil](https://github.com/calata82/Charlie/blob/main/assets/assets/1687558761081.jpeg)
 
 
 - 👋 Hi, I’m @calata82

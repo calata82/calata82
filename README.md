@@ -1,7 +1,8 @@
-[Imagen decorativa de tu perfil](https://github.com/calata82/Charlie/blob/main/assets/assets/1687558761081.jpeg)
+[https://github.com/calata82/calata82/assets/142788065/dc61f1e1-a895-4192-817e-e89ac936bb1a]
 
 
-- 👋 Hi, I’m @calata82
+- 👋 Hi, I’m @calata8![1687558761081]
+2
 
 - 
 

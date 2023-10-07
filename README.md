@@ -2,8 +2,7 @@
 
 ![1687558761081](https://github.com/calata82/calata82/assets/142788065/d00c65ec-e4b6-40b2-8d58-f6fe9766cad5)
 
-
-https://www.youtube.com/channel/UCplAeZ_DXLApeKTUmdGUdoA
+[![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCplAeZ_DXLApeKTUmdGUdoA)
 
 ## Sobre mi
 

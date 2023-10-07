@@ -3,6 +3,9 @@
 ![1687558761081](https://github.com/calata82/calata82/assets/142788065/d00c65ec-e4b6-40b2-8d58-f6fe9766cad5)
 
 [![Youtube](https://img.shields.io/static/v1?label=&message=youtube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCplAeZ_DXLApeKTUmdGUdoA)
+[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/vicent_calatayud/)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/vicent-calatayud-644a18253/)
+[![twitter](https://img.shields.io/static/v1?label=&message=twitter&color=1DA1F2&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/calata82)
 
 ## Sobre mi
 
